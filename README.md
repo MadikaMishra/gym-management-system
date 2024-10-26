@@ -36,4 +36,4 @@ The Gym Management System is designed to streamline operations for fitness cente
 
 ## Contact
 
-For questions, reach me at [your-madikamishra.com].
+For questions, reach me at [your-madikamishra@gmail.com].
